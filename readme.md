@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/LIVE-DEMO-success?style=for-the-badge)]("#LiveDemo")
+[![Live Demo](https://img.shields.io/badge/LIVE-DEMO-success?style=for-the-badge)](https://kanchan-m-portfolio.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GITHUB-REPO-blue?style=for-the-badge)](https://github.com/ahteshamsalamatansari/Kanchan-Portfolio)
 
 </div>
@@ -73,7 +73,7 @@ Every element in this portfolio has been crafted with intention, from the subtle
 
 Get in touch with Kanchan through:
 - GitHub: [@kanchanmahajan581](https://github.com/kanchanmahajan581)
-- Portfolio: [Live Demo](#)
+- Portfolio: [Live Demo](https://kanchan-m-portfolio.netlify.app/)
 - LinkedIn: [Connect with Kanchan](https://www.linkedin.com/in/kanchanmahajan581/)
 
 ---
